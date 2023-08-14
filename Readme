@@ -38,7 +38,6 @@ python customer_segmentation.py
 📊 Example Dataset
 Here's a glimpse of what the mystical customer_data.csv scroll might unveil:
 
-Copy code
 🧙‍♂️CustomerID,Age,Income,SpendingScore
 1,25,40000,70
 2,30,50000,65
